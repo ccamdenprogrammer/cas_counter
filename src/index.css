@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Register your local Moderniz font (served from /public) */
+@font-face {
+  font-family: 'Moderniz';
+  src: url('/Moderniz.otf') format('opentype');
+  font-display: swap;
+}
+
+/* Page fade-in animation keyframes (used via arbitrary animate class) */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
