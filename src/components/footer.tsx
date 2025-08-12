@@ -21,6 +21,7 @@ function Footer() {
           className="underline hover:no-underline"
         >
           Palestine icons created by Freepik - Flaticon
+          
         </a>
       </div>
     </footer>
