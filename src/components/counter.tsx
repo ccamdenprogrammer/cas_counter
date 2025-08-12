@@ -94,7 +94,7 @@ function Counter() {
           {data.gaza.killed.total.toLocaleString()}
         </h2>
         <h1 className="mt-2 text-xl sm:text-2xl md:text-3xl opacity-90">
-          people have been killed by israel since October 7, 2023
+          people have been killed by israel in Gaza since October 7, 2023
         </h1>
       </div>
 
